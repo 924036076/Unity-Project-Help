@@ -10,4 +10,4 @@
 
   [FolderInspector 资源默认导入设置](https://assetstore.unity.com/packages/tools/utilities/folderinspector-28088?aid=1100l37E9&cid=1011l7rEdXxQ&utm_source=aff)
   
-  
+  [unity-overwriter 支持在Unity里覆盖同名文件](https://github.com/ina-amagami/unity-overwriter)
